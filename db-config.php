@@ -1,8 +1,8 @@
 <?php
-	$db = 'dm';
+	$db = 'u401895710_dm';
 	$host = 'localhost';
-	$user = 'thewire';
-	$pass = 'NyCubZmN38QqHDBU';
+	$user = 'u401895710_admin';
+	$pass = 'd?`OlF7&1#Y[T[k7qr';
 	$menu_table = 'menu';
 	$social_table = 'social';
 	$project_table = 'project';
